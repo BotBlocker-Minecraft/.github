@@ -46,7 +46,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -117,21 +116,6 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 Aitor Astorga Saez de Vicuña - a.astorga.sdv@gmail.com
 
 Project Link: [https://github.com/BotBlocker-Minecraft](https://github.com/BotBlocker-Minecraft)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [markdown-badges](https://github.com/Ileriayo/markdown-badges#table-of-contents)
-* [GitHub Pages](https://pages.github.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
