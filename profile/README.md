@@ -31,9 +31,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#versions-of-the-project">Versions of the Project</a></li>
     <li>
       <a href="#functionality">Functionality</a>
       <ul>
@@ -63,6 +62,7 @@ BotBlocker is a solution for Minecraft servers designed to limit bot intrusion. 
 
 ## Versions of the Project
 [Bukkit/Spigot BotBlocker](https://github.com/BotBlocker-Minecraft/BotBlocker)
+
 [Fabric BotBlocker](https://github.com/BotBlocker-Minecraft/BotBlocker-Fabric)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
